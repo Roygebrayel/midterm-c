@@ -6,7 +6,7 @@ int fct(int n)
     int sum = 0;
     for (int i = 0; i < n; i++)
     {
-        for (int j = 0; j < 2 * n; j += 2)
+        for (int j = 0; j < 2 * n; j+=2)
         {
             sum++;
             if (j % 2 == 1)
