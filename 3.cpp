@@ -12,12 +12,13 @@ for (int i = 0; i < n; i++)
            
                 sum++;
                 
-                    return sum;
                    
+                 return sum;  
                 
             }
-        }
-    }
+             
+        } 
+    
 
     int main (void){
         int n=10;
